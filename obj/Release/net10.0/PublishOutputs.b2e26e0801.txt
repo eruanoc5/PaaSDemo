@@ -1,0 +1,7 @@
+C:\Users\edson\source\AppAzureDemo\dist\AppAzureDemo.exe
+C:\Users\edson\source\AppAzureDemo\dist\appsettings.Development.json
+C:\Users\edson\source\AppAzureDemo\dist\appsettings.json
+C:\Users\edson\source\AppAzureDemo\dist\AppAzureDemo.dll
+C:\Users\edson\source\AppAzureDemo\dist\AppAzureDemo.deps.json
+C:\Users\edson\source\AppAzureDemo\dist\AppAzureDemo.runtimeconfig.json
+C:\Users\edson\source\AppAzureDemo\dist\AppAzureDemo.pdb
